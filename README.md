@@ -7,4 +7,4 @@ Un input important au modèle est une matrice signalant la
 cannibalisation entre les marques et les saveurs. 
 Pour simplifier la compréhension, cidessous le modèle par SKU pour un cluster donné s’écrira comme suit :
 
-![](./model.png)<!-- -->
+![](./model.PNG)<!-- -->
