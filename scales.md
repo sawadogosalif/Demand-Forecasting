@@ -1,6 +1,6 @@
 Is it mandatory to scales features in any machine learning algorithms?
 
-In general, For  any algorithm that computes distance (like unsupervised algorihms) or assumes normality, scale your features!!!
+In general, For  any algorithm that computes distance (like unsupervised algorihms) or assumes normality, scale your features !!!
 
 Above are examples of algorithm:
 
