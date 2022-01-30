@@ -4,7 +4,7 @@ In general, For  any algorithm that computes distance (like unsupervised algorih
 
 Above are examples of algorithm:
 
-	+ In KNN,  features should be scaled because this algorithms with an Euclidean distance measure is sensitive to magnitudes  in order to have the same weights.
+  + In KNN,  features should be scaled because this algorithms with an Euclidean distance measure is sensitive to magnitudes  in order to have the same weights.
    
   + Scaling is critical while performing Principal Component Analysis(PCA). PCA tries to get the features with maximum variance and the variance is high for high magnitude features. This skews the PCA towards high magnitude features.
 	
