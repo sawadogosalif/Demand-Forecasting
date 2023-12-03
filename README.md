@@ -9,6 +9,7 @@ cannibalisation entre les marques et les saveurs? et les données rélatives aux
 
 Pour simplifier la compréhension, cidessous le modèle par SKU pour un cluster donné s’écrira comme suit :
 
+
 ![](./model.PNG)<!-- -->
 
 Avant l’étape de l’implémentation de la régression pénalisée, nous avons créé des fonctions afin 
